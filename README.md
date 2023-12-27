@@ -8,4 +8,5 @@ Special thanks to [@hitesh](https://github.com/hiteshchoudhary)
 
 # Screenshots
 
-![Uploading image.png…]()
+![image](https://github.com/savatabachhav/react-currency-convert/assets/34607163/bae2eec8-75dd-450e-bd9d-694155a8efe0)
+
